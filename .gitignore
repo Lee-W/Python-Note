@@ -3,3 +3,6 @@
 ### IPythonNotebook ###
 # Temporary data
 .ipynb_checkpoints/
+
+
+Tmp.*
